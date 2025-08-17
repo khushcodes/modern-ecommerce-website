@@ -1,44 +1,34 @@
-# Anon - An eCommerce Website
+# 🛒 Modern E-Commerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+A fully responsive **E-commerce Website** built with **HTML, CSS, and JavaScript**.  
+Designed for a clean, modern shopping experience.
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## 🚀 Features
+- ✅ Responsive design for all devices
+- ✅ Product listing page
+- ✅ Shopping cart functionality
+- ✅ Modern UI with smooth styling
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+---
 
-## Prerequisites
+## 📸 Screenshots
 
-Before you begin, ensure you have met the following requirements:
+### Homepage
+![Homepage Screenshot](website-demo-image/homepage.png)
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+*(Add more screenshots inside `website-demo-image/` folder if needed, and update here)*
 
-## Installing Anon
+---
 
-To install **Anon**, follow these steps:
+## 🌐 Live Demo
+👉 [View on Vercel](https://your-vercel-deployment-link.vercel.app)
 
-Linux and macOS:
+---
 
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
+## ⚡ Installation
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/khushcodes/modern-ecommerce-website.git
