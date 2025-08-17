@@ -23,7 +23,7 @@ Designed for a clean, modern shopping experience.
 ---
 
 ## 🌐 Live Demo
-👉 [View on Vercel](https://your-vercel-deployment-link.vercel.app)
+👉 [View on Vercel](https://vercel.com/khushboosingh1801745-gmailcoms-projects/modern-ecommerce-website)
 
 ---
 
